@@ -8,4 +8,5 @@
 - Push your changes to GitHub ✅
 - Create a new branch `dev`
 - From `dev` create another branch `test`
+
 - Go back to the `dev` branch and delete the `test` branch
